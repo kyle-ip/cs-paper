@@ -34,3 +34,8 @@ Including but not limited to the folllowing topics:
 #### [zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO](https://www.usenix.org/conference/osdi22/presentation/stamler)
 
 - Source code: [tstamler/zIO](https://github.com/tstamler/zIO)
+
+### FAST
+
+#### [Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression](https://www.usenix.org/conference/fast22/presentation/qiao)
+
