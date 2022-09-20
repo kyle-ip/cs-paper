@@ -4,7 +4,7 @@
 
 Some fascinating computer science papers and my reading notes.
 
-Including but not limited to the folllowing topics: 
+Including but not limited to the topics: 
 
 - **Database**
 
